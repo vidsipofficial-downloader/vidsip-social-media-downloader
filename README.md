@@ -10,3 +10,6 @@ No watermark. No login. HD quality.
 📥 Instagram Downloader: https://vidsip.com/instagram-downloader
 📥 Snapchat Downloader: https://vidsip.com/snapchat-downloader
 📥 Facebook Downloader: https://vidsip.com/facebook-downloader
+📥 Twitter/X Downloader: https://vidsip.com/twitter-downloader
+📥 Pinterest Downloader: https://vidsip.com/pinterest-downloader
+📥 ShareChat Downloader: https://vidsip.com/sharechat-downloader
